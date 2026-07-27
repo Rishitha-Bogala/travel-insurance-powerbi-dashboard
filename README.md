@@ -62,6 +62,19 @@ The dashboard was developed to help stakeholders monitor policy performance, eva
 
 ---
 
+## Skills Demonstrated
+
+- Data Modeling
+- DAX Measures
+- KPI Design
+- Interactive Dashboard Development
+- Custom Tooltips
+- Data Visualization
+- Business Insight Generation
+- Mobile Report Design
+
+---
+
 ## Key Metrics
 
 | Metric | Value |
@@ -84,3 +97,23 @@ Simulated Travel Insurance Dataset
 ## Author
 
 Rishitha Bogala
+
+---
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive%20Overview.png)
+
+### Risk Analytics
+![Risk Analytics](Risk%20Analytics.png)
+
+### Agent Performance
+![Agent Performance](Agent%20Performance.png)
+
+### Customer Demographics
+![Customer Demographics](Customer%20Demographics.png)
+
+### Key Insights
+![Key Insights](Key%20Insights.png)
+
